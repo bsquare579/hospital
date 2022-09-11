@@ -1,2 +1,2 @@
-# hospital
+# HOSPITAL
 Doctor Appointment Booking
